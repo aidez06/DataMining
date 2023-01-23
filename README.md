@@ -1,2 +1,2 @@
 # DataMining
-Data scraping enables data analysis on specific zip codes. 
+Data scraping for realstate for data analysis 
